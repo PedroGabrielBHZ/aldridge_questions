@@ -33,4 +33,12 @@
 
 6. How do end investors benefit from high-frequency trading?
 
-    Liquidity. Ahem. Spoofing ? Jamais. Front-running ? Pas possible, monsieur.
+    - Improved Liquidity: HFT can enhance market liquidity by increasing the number of trades executed and narrowing bid-ask spreads. This means that end investors may find it easier and cheaper to buy or sell securities when they want to.
+
+    - Price Efficiency: High-frequency traders exploit small price discrepancies in the market, which helps to ensure that prices adjust quickly to new information. This can result in more accurate pricing of securities, benefiting all investors who trade at those prices.
+
+    - Reduced Transaction Costs: With tighter bid-ask spreads and increased liquidity, end investors may experience reduced transaction costs when buying or selling securities. Lower costs mean higher returns for investors.
+
+    - Arbitrage Opportunities: HFT firms engage in arbitrage strategies, exploiting price differences between different markets or securities. This can help to align prices across markets, reducing inefficiencies and ensuring fairer pricing for investors.
+
+    - Price Discovery: High-frequency trading can contribute to price discovery by quickly incorporating new information into market prices. This benefits investors by providing more accurate valuations of securities.
