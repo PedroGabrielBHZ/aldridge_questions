@@ -1,5 +1,5 @@
 
-# Chapter 1 answers
+# Chapter 1 questions & answers
 
 1. Describe the major groups of today’s market participants. What role do they play? How do they interact?
 
